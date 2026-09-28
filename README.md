@@ -1,5 +1,5 @@
-Lab #6 - *Parks and Campground Explorer App*
-Submitted by: Gianna Booker
+Android Lab #6 - **Parks and Campground Explorer App**
+Submitted by: **Gianna Booker**
 
 Parks and Campground Explorer App is an Android app that allows users to browse both parks and campgrounds.
 
@@ -8,9 +8,9 @@ Time spent: 8 hours spent in total
 Required Features
 The following required functionality is completed:
 
-[X] Add and implement Bottom Navigation to your application
-[X] Dynamically use fragments within Activities
-[X] Customize the toolbar and icons
+- [X] Add and implement Bottom Navigation to your application
+- [X] Dynamically use fragments within Activities
+- [X] Customize the toolbar and icons
 Video Walkthrough
 Here's a walkthrough of implemented features:
 
