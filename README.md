@@ -14,6 +14,8 @@ The following required functionality is completed:
 - [X] Dynamically use fragments within Activities
 - [X] Customize the toolbar and icons
 Video Walkthrough
+
+
 Here's a walkthrough of implemented features:
 
 <img width="252" height="534" alt="AND102-Campgrounds   Parks" src="https://github.com/user-attachments/assets/3004ff0b-98d7-421c-88bc-1950a64a93f9" />
