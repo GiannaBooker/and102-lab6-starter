@@ -1,4 +1,6 @@
 Android Lab #6 - **Parks and Campground Explorer App**
+
+
 Submitted by: **Gianna Booker**
 
 Parks and Campground Explorer App is an Android app that allows users to browse both parks and campgrounds.
